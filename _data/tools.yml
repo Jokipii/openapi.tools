@@ -63,6 +63,16 @@
   v2: true
   v3_progress_link: https://github.com/mission-liao/pyswagger/blob/develop/docs/md/news.md
 
+- name: api-spec-converter
+  category: converters
+  language: JavaScript
+  link: https://lucybot-inc.github.io/api-spec-converter/
+  github: https://github.com/LucyBot-Inc/api-spec-converter
+  description: |
+    Convert between API description formats.
+  v2: true
+  v3: true
+
 #  Documentation Viewers/Consoles
 
 - name: openapi-viewer
