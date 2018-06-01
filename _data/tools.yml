@@ -114,6 +114,16 @@
   description: A React renderer for OpenAPI v3.
   v3: true
 
+- name: Swagger UI
+  category: documentation
+  github: https://github.com/swagger-api/swagger-ui
+  lang: JavaScript
+  description: |
+    Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate
+    beautiful documentation from a Swagger-compliant API.
+  v2: true
+  v3: true
+
 - name: Swagger-Codegen
   category: code-generators
   link: https://swagger.io/swagger-codegen/
