@@ -132,6 +132,8 @@
   v3: true
   v2: true
 
+# Code Generation
+
 - name: Swagger-Codegen
   category: code-generators
   link: https://swagger.io/swagger-codegen/
