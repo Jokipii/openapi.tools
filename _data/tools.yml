@@ -244,6 +244,13 @@
   v2: true
   v3_progress_link: https://github.com/getsandbox/sandbox/issues/31
 
+- name: OpenAPI v3 Mock Server
+  category: mock
+  language: JavaScript
+  github: https://github.com/technocreatives/openapi-mock-eller
+  description: From OpenAPI v3 spec to running mock server in one command
+  v3: true
+
 # Server implementations
 
 - name: Vert.x Web Api Contract
