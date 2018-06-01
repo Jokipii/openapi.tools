@@ -272,6 +272,15 @@
   v2: false
   v3: true
 
+- name: light-rest-4j
+  category: server
+  language: Java
+  link: https://doc.networknt.com/style/light-rest-4j/
+  github: https://github.com/networknt/light-rest-4j
+  description: A RESTful framework built on top of light-4j with both Swagger 2.0 and OpenAPI 3.0 supports
+  v2: true
+  v3: true
+
 # Parsers / Validators
 
 - name: speccy
