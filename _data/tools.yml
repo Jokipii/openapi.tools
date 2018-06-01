@@ -251,6 +251,16 @@
   description: From OpenAPI v3 spec to running mock server in one command
   v3: true
 
+- name: Imposter
+  category: mock
+  language: Java
+  github: https://github.com/outofcoffee/imposter
+  description: |
+    Reliable, scriptable and extensible mock server for general REST APIs,
+    OpenAPI (aka Swagger) specifications, Salesforce and HBase APIs.
+  v2: true
+  v3_progress_link: https://github.com/outofcoffee/imposter/issues/17
+
 # Server implementations
 
 - name: Vert.x Web Api Contract
