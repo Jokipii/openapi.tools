@@ -281,6 +281,14 @@
   v2: true
   v3: true
 
+- name: API Star
+  category: server
+  language: Python
+  link: https://docs.apistar.com/api-guide/api-schemas/
+  github: https://github.com/encode/apistar
+  description: A smart Web API framework, for Python 3
+  v3: true
+
 # Parsers / Validators
 
 - name: speccy
