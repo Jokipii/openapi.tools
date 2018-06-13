@@ -75,6 +75,14 @@
 
 #  Documentation Viewers/Consoles
 
+- name: Kong Enterprise Edition
+  category: documentation
+  link: https://konghq.com/kong-enterprise-edition/
+  language: Lua
+  description: Highly customizable developer portal with developer onboarding, integrated with the Kong API Gateway
+  v2: true
+  v3: true
+  
 - name: openapi-viewer
   category: documentation
   link: https://koumoul.com/openapi-viewer/
@@ -162,7 +170,11 @@
   v2: true
 
 - name: OpenAPI Generator
-  category: code-generators
+  category:
+    - code-generators
+    - sdk
+    - converters
+  link: https://openapi-generator.tech
   language: Java
   github: https://github.com/OpenAPITools/openapi-generator
   description: A template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI definition (community-driven fork of swagger-codegen)
@@ -243,6 +255,15 @@
   description: SaaS, self-hosted, or CLI tool for turning OpenAPI (and other) definitions into a mock server, where you can modify behaviour, simulate downtime, and any other nonsnese you can think of thanks to a built-in code editor!
   v2: true
   v3_progress_link: https://github.com/getsandbox/sandbox/issues/31
+  
+- name: Microcks
+  category: mock
+  language: Self-hosted / SaaS
+  link: https://microcks.github.io
+  github: https://github.com/microcks/microcks
+  description: Mocking and testing platform for API and microservices. Turn your OAI contract examples into ready to use mocks. Use examples to test and validate implementations according schema elements.
+  v2: true
+  v3: true
 
 - name: OpenAPI v3 Mock Server
   category: mock
