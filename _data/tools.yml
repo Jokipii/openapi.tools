@@ -181,6 +181,16 @@
   v2: true
   v3: true
 
+- name: Fizz
+  category: code-generators
+  language: Go
+  github: https://github.com/wI2L/fizz
+  description: |
+    It generates wrapping gin-compatible handlers that do all the repetitive work
+    and wrap the call to your handlers. It can also generates an *almost* complete
+    OpenAPI 3 specification of your API.
+  v3: true
+
 # [io-docs](https://github.com/mikeralphson/iodocs)|Node.js|fork of Mashery IO-docs with OpenAPI 2/3 support|http://io-docs.herokuapp.com/
 
 # Editors
@@ -308,6 +318,13 @@
   link: https://docs.apistar.com/api-guide/api-schemas/
   github: https://github.com/encode/apistar
   description: A smart Web API framework, for Python 3
+  v3: true
+
+- name: \@smartrecruiters/openapi-first
+  category: server
+  language: JavaScript
+  github: https://github.com/smartrecruiters/openapi-first
+  description: Start your node REST app with designing API first!
   v3: true
 
 # Parsers / Validators
